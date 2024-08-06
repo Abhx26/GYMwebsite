@@ -2,7 +2,7 @@
   method: 'GET',
   url: 'https://exercisedb.p.rapidapi.com/exercises/bodyPartList',
   headers: {
-    'X-RapidAPI-Key': '0b3cac4012mshf44d73805a28415p142356jsn0d5bc326e2ca',
+    'X-RapidAPI-Key': 'dfe5f643bamsh356328f65f21a0ep121572jsn768c925d521e',
     'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
   }
     };
